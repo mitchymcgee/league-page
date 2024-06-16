@@ -9,7 +9,7 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 export const homepageText = `
   <p>Cumboyz Fantasy Football est. 2022</p>
   <p>The Cumboyz are a proud few. A league of extraordinary gentlemen. A collection of the finest men in the continental US. To be a Cum Boy is to be the salt of the earth. It is more than a title; it's a way of life.
-  it's a commitment to the relentless pursuit of the coveted prize, the CUM BOWL./p>
+  it's a commitment to the relentless pursuit of the coveted prize, the CUM BOWL.</p>
 `;
 
 /*   STEP 3   */
